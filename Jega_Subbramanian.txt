@@ -1,0 +1,143 @@
+Jega_Subbramanian
+
+# sidebar
+
+alt = Jega Subbramanian
+Jega Subbramanian
+Business Analytics Graduate | Data Analyst
+
+Show Contacts
+
+Email
+jegasubbramanian@gmail.com
+
+Phone
++44 7466706002
+
+Birthday
+August 27, 1998
+
+Location
+Birmingham, United Kingdom
+
+# navbar
+
+About
+Resume
+Portfolio
+Certifications
+Contact
+
+# about
+
+About me
+
+I'm a Business Analytics graduate from Aston University with hands-on experience in SQL, Python, Power BI, and SPSS. I specialize in extracting insights from data to solve real business problems and enhance decision-making. With a technical foundation from my engineering background and a passion for data storytelling, I build solutions that are both analytical and actionable.
+
+## service
+
+What I'm doing
+
+alt = analytics icon
+Data Analytics
+Analyzing trends, building dashboards, and making data-driven decisions.
+
+alt = business intelligence icon
+Business Intelligence
+Creating insightful reports and dashboards with Power BI and Tableau.
+
+alt = python icon
+Python Automation
+Scripting data workflows using Python for reporting and visualization.
+
+alt = sql icon
+SQL Development
+Building queries, managing databases, and optimizing data operations.
+
+## testimonials
+
+Testimonials
+
+alt = Venom
+Venom
+"Spidy always delivers sharp, scalable analytics projects with precision. A data-slinger with a mission!"
+
+alt = Aston Professor
+Prof. James Bolton
+"Jega is a diligent analyst with a strong command of technical tools and critical thinking."
+
+# resume
+
+Resume
+
+Education
+
+Aston University, UK
+2025 — 2026
+MSc in Business Analytics
+Hands-on with data wrangling, predictive modeling, Python, SQL, and decision modeling.
+
+Anna University, India
+2016 — 2020
+Bachelor of Engineering (EEE)
+Graduated First Class with a strong focus on control systems and automation.
+
+Experience
+
+Sutherland Global Services, India
+Team Lead (Tech Support)
+2024 — 2024
+Performed performance analysis, operations coordination, and MIS reporting.
+
+Associate – Internet Support
+2022 — 2024
+Troubleshooting, payment processing, and customer engagement.
+
+Control 4, India
+Junior Tech Support Intern
+2021 — 2022
+Technical support, configuration, and hands-on embedded systems training.
+
+Skills
+
+SQL
+Power BI
+Python
+Tableau
+SPSS
+Java
+Web Development
+Technical Support
+
+# portfolio
+
+Portfolio
+
+SPSS Logistic Regression – Fresco Supermarket
+Power BI Retail Dashboard
+Java Storytelling App
+Turbine Control with Microcontroller
+Arduino Servo Motor Automation
+
+# certifications
+
+Certifications
+
+Associate Installer – Snap One
+Java & J2EE Professional – Appin Technology
+SQL for Business Analysts – DataCamp
+Power BI Fundamentals – DataCamp
+Tableau Fundamentals – DataCamp
+Python Data Fundamentals – DataCamp
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
